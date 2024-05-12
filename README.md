@@ -56,6 +56,8 @@ PROCEDURE:
 
 9.View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
+VERILOG CODE
+
 ### D FLIP FLOP
 ~~~
 module dff(d,clk,rst,q);
@@ -192,9 +194,6 @@ out=out-1;
 end
 endmodule
 ~~~
-
-
-VERILOG CODE
 
    
 
