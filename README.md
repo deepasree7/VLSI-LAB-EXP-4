@@ -22,7 +22,7 @@ JK FLIPFLOP
 
 T FLIPFLOP
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08) 
 
 
 D FLIPFLOP
